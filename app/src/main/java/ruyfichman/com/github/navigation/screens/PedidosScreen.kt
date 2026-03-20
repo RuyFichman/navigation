@@ -1,4 +1,4 @@
-package ruyfichman.com.github.navigation.screens;
+package ruyfichman.com.github.navigation.screens
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
@@ -15,15 +15,15 @@ import androidx.compose.ui.unit.sp
 @Composable
 fun PedidosScreen(modifier: Modifier = Modifier) {
     Box(modifier = modifier
-            .fillMaxSize()
-            .background(Color(0xFFFA9A9A9))
-            .padding(32.dp)
+        .fillMaxSize()
+        .background(Color(0xFFFA9A9A9))
+        .padding(32.dp)
     ) {
         Text(
-                text = "PEDIDOS",
-                fontSize = 24.sp,
-                fontWeight = FontWeight.Bold,
-                color = Color.White
+            text = "PEDIDOS",
+            fontSize = 24.sp,
+            fontWeight = FontWeight.Bold,
+            color = Color.White
         )
     }
 }
