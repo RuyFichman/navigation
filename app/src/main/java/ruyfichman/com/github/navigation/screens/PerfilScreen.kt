@@ -36,7 +36,7 @@ fun PerfilScreen(modifier: Modifier = Modifier, navController: NavController) {
             modifier = Modifier.align(Alignment.Center)
         ) {
             Text(
-                text = "Voltar",
+                text = "Voltar", // teste
                 fontSize = 20.sp,
                 color = Color.Blue
             )
