@@ -7,7 +7,7 @@ Projeto desenvolvido para aprender e praticar a navegação entre telas em aplic
 
 Este aplicativo simula um fluxo simples de navegação semelhante ao que encontramos em apps reais: o usuário faz login, acessa um menu principal e pode navegar para diferentes seções — como 'Perfil' e 'Pedidos', e retornar ao menu a qualquer momento.
 
-O objetivo não é criar um app funcional completo, mas sim entender na prática como o 'NavController' e o 'NavHost' funcionam, como definir rotas e como passar a navegação entre composables.
+O objetivo não é criar um app funcional completo, mas sim entender na prática como o 'NavController' e o 'NavHost' funcionam, como definir rotas e como passar a navegação entre composables
 
 
 
